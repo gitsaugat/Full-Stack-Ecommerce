@@ -1,0 +1,6 @@
+[submodule "React-Ecommerce-Frontend"]
+    path=react-ecommerce-frontend
+    url=https://github.com/gitsaugat/React-Ecommerce-Frontend.git
+[submodule "Ecommerce-Backend"]
+    path=ecommerce-frontend
+    url=https://github.com/gitsaugat/Ecommerce-Backend.git
